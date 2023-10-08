@@ -1,0 +1,40 @@
+body {
+    background-image: url('image.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    background-color: #8080ff;
+    font-family: georgia,serif;
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+    margin-bottom: 20px;
+	  margin-left: auto;
+	  margin-right: auto;
+}
+
+p {
+    text-align: justify;
+    background-color: hsl(240, 100%, 90%);
+    font-style: italic;
+    padding: 20px;
+    border: 3px solid black; 
+    border-top-style: double;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: dashed;
+    width: 500px;
+	  margin-left: auto;
+	  margin-right: auto;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(102, 102, 255);
+    margin: 2px 5px;
+}
